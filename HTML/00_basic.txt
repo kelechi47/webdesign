@@ -1,0 +1,9 @@
+ls - list item
+cd - change directory
+ctrl + l = clear
+touch - creates a file from the terminal
+mkdir(make directory) - creates a new folder/directory
+rm - remove
+rmdir(remove directory) - remove directory/folder
+
+ls -a(See hidden files)
