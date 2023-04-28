@@ -5,5 +5,5 @@ touch - creates a file from the terminal
 mkdir(make directory) - creates a new folder/directory
 rm - remove
 rmdir(remove directory) - remove directory/folder
-
+touch(file name) - one way to create a new file from the terminal
 ls -a(See hidden files)
